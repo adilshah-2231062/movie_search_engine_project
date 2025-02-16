@@ -1,1 +1,2 @@
 # movie_search_engine_project
+The Movie Search Engine is a sleek and intuitive web application that helps users find detailed information about any movie in just seconds. Powered by HTML, CSS, and JavaScript, it integrates with a movie database API to provide real-time results, including movie posters, ratings, and plot summaries. Whether you're a movie enthusiast or just looking for a film to watch, this tool makes searching effortless and fun!
